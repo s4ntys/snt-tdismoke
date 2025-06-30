@@ -22,7 +22,6 @@ Features
 - Standalone: Does not require any frameworks like ESX or QBCore.
 
 
-Credit by : ThesympnaticS
 
 
 
@@ -62,6 +61,8 @@ https://github.com/user-attachments/assets/4a706953-c775-4376-b556-2ab0e27dfc0e
 - Synchronizácia: Dym je viditeľný pre všetkých hráčov na serveri.
 
 - Discord záznamy: Posiela upozornenie na váš Discord server, keď hráč aktivuje alebo deaktivuje dym.
+
+Credit by : ThesympnaticS
 
 - Konfigurovateľnosť: Jednoduchá zmena častíc dymu, ich veľkosti a kosti, z ktorej vychádzajú.
 

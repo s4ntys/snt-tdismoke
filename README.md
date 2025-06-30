@@ -6,6 +6,8 @@ The smoke effect can be toggled on and off with a hotkey and is fully synchroniz
 
 https://github.com/user-attachments/assets/4a706953-c775-4376-b556-2ab0e27dfc0e
 
+Credit by : ThesympnaticS
+
 Features
 - Togglable Smoke: Players can turn the smoke on/off by pressing a key (Left CTRL by default).
 
@@ -19,6 +21,8 @@ Features
 
 - Standalone: Does not require any frameworks like ESX or QBCore.
 
+
+Credit by : ThesympnaticS
 
 
 
